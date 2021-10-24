@@ -4,7 +4,7 @@ function me(me){
 
  if(me === false){
   
-   return('Just wait for truths around here my friend!');
+   return('Wait only for truths around here my friend!!');
  }else{
    return(
      {
